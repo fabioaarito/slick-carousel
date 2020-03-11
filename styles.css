@@ -1,0 +1,14 @@
+.carousel img{
+    width: 100%;
+    max-height: 400px;
+    object-fit: contain;
+}
+.slick-next, .slick-prev {
+    z-index: 15;
+}
+.slick-next {
+    right: 10px
+}
+.slick-prev {
+    left: 10px;
+}
